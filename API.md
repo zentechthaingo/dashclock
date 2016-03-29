@@ -1,0 +1,1 @@
+[Moved](https://github.com/romannurik/dashclock/wiki/API)
